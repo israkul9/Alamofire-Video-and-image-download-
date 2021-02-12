@@ -1,0 +1,6 @@
+framework module Pods_LiveWallpaperMaker {
+  umbrella header "Pods-LiveWallpaperMaker-umbrella.h"
+
+  export *
+  module * { export * }
+}
